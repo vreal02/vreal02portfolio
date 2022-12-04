@@ -1,0 +1,14 @@
+[
+  {
+    "name": "onroom",
+    "path": "/onroom",
+    "component": "C:\\\\Users\\\\vicen\\\\Desktop\\\\roli_proyects\\\\portfolio\\\\vicente\\\\pages\\\\onroom.vue",
+    "chunkName": "pages/onroom"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\vicen\\\\Desktop\\\\roli_proyects\\\\portfolio\\\\vicente\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

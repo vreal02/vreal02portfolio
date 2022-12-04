@@ -1,0 +1,27 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/basic-button.js": "components/basic-button.js",
+    "components/basic-card.js": "components/basic-card.js",
+    "components/basic-header.js": "components/basic-header.js",
+    "components/basic-list.js": "components/basic-list.js",
+    "components/basic-title.js": "components/basic-title.js",
+    "components/carousel.js": "components/carousel.js",
+    "components/scroll-down.js": "components/scroll-down.js",
+    "pages/index.js": "pages/index.js",
+    "pages/onroom.js": "pages/onroom.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/basic-button.js": "components/basic-button.js.map",
+    "components/basic-card.js": "components/basic-card.js.map",
+    "components/basic-header.js": "components/basic-header.js.map",
+    "components/basic-list.js": "components/basic-list.js.map",
+    "components/basic-title.js": "components/basic-title.js.map",
+    "components/carousel.js": "components/carousel.js.map",
+    "components/scroll-down.js": "components/scroll-down.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/onroom.js": "pages/onroom.js.map",
+    "server.js": "server.js.map"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "BasicButton": {
+    "description": "Auto imported from components/basic/button.vue"
+  },
+  "BasicCard": {
+    "description": "Auto imported from components/basic/card.vue"
+  },
+  "BasicHeader": {
+    "description": "Auto imported from components/basic/header.vue"
+  },
+  "BasicList": {
+    "description": "Auto imported from components/basic/list.vue"
+  },
+  "BasicTitle": {
+    "description": "Auto imported from components/basic/title.vue"
+  },
+  "ScrollDown": {
+    "description": "Auto imported from components/scroll/down.vue"
+  },
+  "Carousel": {
+    "description": "Auto imported from components/carousel/index.vue"
+  }
+}
